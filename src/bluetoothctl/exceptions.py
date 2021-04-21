@@ -1,0 +1,2 @@
+class BluetoothctlError(Exception):
+    pass
